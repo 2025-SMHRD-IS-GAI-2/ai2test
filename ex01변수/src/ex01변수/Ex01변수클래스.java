@@ -8,6 +8,7 @@ public class Ex01변수클래스 {
 		// TODO Auto-generated method stub
 		// 지유 이클립스에서 push하기!!
 		// ddddd 커밋
+		//지유 커밋
 		
 		// - 주석: 실행하는 코드가 아닌 메모 작성용
 		// - java에서의 영역
