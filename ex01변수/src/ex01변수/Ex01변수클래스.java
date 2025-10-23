@@ -7,6 +7,7 @@ public class Ex01변수클래스 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// 지유 이클립스에서 push하기!!
+		// 10/23 11:04분 push하기!!
 		
 		
 		// - 주석: 실해하는 코드가 아닌 메모 작성용
