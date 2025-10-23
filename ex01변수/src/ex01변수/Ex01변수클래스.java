@@ -7,9 +7,9 @@ public class Ex01변수클래스 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// 지유 이클립스에서 push하기!!
+		// ddddd 커밋
 		
-		
-		// - 주석: 실해하는 코드가 아닌 메모 작성용
+		// - 주석: 실행하는 코드가 아닌 메모 작성용
 		// - java에서의 영역
 		// : 중괄호 한쌍 중에서 열리는 중괄호 부터
 		//  닫히는 중괄호를 만나기 전까지의 부분
